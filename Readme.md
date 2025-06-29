@@ -77,18 +77,8 @@ Edit
 
 
 
-1. GitHub पर जाएं: [https://github.com](https://github.com)
-2. नया repository   
-   
-3. Git initialize
-   ```bash
-   git init
-   git add .
-   git commit -m "Initial commit - chatbot for Tamizhan Skills"
-   git branch -M main
-   git remote add origin https://github.com/your-username/simple-chatbot.git
-   git push -u origin main
-🔗 Users 
+)
+
 💻 Via Terminal use:-
 
 bash
